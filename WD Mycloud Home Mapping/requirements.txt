@@ -1,0 +1,6 @@
+PyQt5
+Flask
+requests
+mycloudhome
+fusepy     # dla Linux/macOS
+pyfilesystem2
